@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">在個人README上動態生成屬於你的GitHub統計面板！</p>
+ <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
@@ -30,15 +30,15 @@
   </p>
 
   <p align="center">
-    <a href="#all-demos">預覽版面</a>
+    <a href="#all-demos">View Demo</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">回報錯誤</a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">請求添加新功能</a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
     ·
     <a href="https://github.com/anuraghazra/github-readme-stats/discussions/1770">FAQ</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/discussions">提出問題</a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/discussions">Ask Question</a>
   </p>
   <p align="center">
     <a href="/docs/readme_fr.md">Français </a>
@@ -67,7 +67,7 @@
   </p>
 </p>
 
-<p align="center">喜歡這個專案嗎？你可以<a href="https://www.paypal.me/anuraghazra">贊助</a>我們來為這專案盡一份心力！</p>
+<p align="center">Love the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!</p>
 
 <a href="https://indiafightscorona.giveindia.org">
   <img src="https://cfstatic.give.do/logo.png" alt="Give india logo" width="200" />
@@ -86,11 +86,11 @@ Please visit [this link](https://give.do/fundraisers/stand-beside-the-victims-of
 # Features <!-- omit in toc -->
 
 - [GitHub Stats Card](#github-stats-card)
-    - [隱藏統計面板上的資訊](#hiding-individual-stats)
-    - [額外添加統計面板上的資訊](#showing-additional-individual-stats)
-    - [顯示圖標](#showing-icons)
-    - [替換主題配色](#themes)
-    - [自定義](#customization)
+    - [Hiding individual stats](#hiding-individual-stats)
+    - [Showing additional individual stats](#showing-additional-individual-stats)
+    - [Showing icons](#showing-icons)
+    - [Themes](#themes)
+    - [Customization](#customization)
 - [GitHub Extra Pins](#github-extra-pins)
     - [Usage](#usage)
     - [Demo](#demo)
